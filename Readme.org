@@ -1,7 +1,3 @@
-#+TITLE: 青玄濟煉鐵貫斛食 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 17:47:43.977383
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
-目次
- - [[file:KR5i0106_001.txt][青玄濟煉鐵貫斛食 1]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
